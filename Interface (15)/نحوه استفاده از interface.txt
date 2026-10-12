@@ -1,0 +1,6 @@
+interface IUser{
+    value: string;
+    onchange: React.Dispatch<React.SetStateAction<string>>;
+}
+
+معمولا برای آبجکت ها استفاده میشه
